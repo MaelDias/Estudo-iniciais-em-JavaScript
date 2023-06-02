@@ -1,0 +1,21 @@
+body{
+  background-color: #5dade2;;
+}
+
+h1 {
+  font-family: monospace;
+  color: #333;
+  text-align: center;
+  line-height: 100px;
+}
+
+.container{
+  max-width: 400px;
+  height: 100px;
+  font-family: monospace;
+  color: #333;
+  background: aliceblue;
+  border-radius: 10px;
+  margin: 0 auto;
+  box-shadow: 5px 5px 1px;
+}
